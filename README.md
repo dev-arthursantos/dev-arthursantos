@@ -29,11 +29,3 @@ Sou Desenvolvedor Front-End, estudante de desenvolvimento de software (Técnico)
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/> <br>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VSCODE"/> 
 <br><br>
-
----
-
-<h2 align="center">
-⭐ GitHub Stats
-</h2>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-arthursantos&show_icons=true)
